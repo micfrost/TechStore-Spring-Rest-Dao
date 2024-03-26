@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TechStoreRestDaoApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(TechStoreRestDaoApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(TechStoreRestDaoApplication.class, args);
+    }
 
 }
